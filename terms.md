@@ -1,4 +1,4 @@
- # Terms of Service for Melty Focus Timer
+# Terms of Service for Melty Focus Timer
 
   **Last updated:** 19/01/2026
 
