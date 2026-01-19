@@ -4,7 +4,7 @@
 
   Anhar Perinkadakkat ("we", "us", or "our") operates the Melty Focus Timer mobile application.
   
-## Information We Collect
+ ## Information We Collect
 
   **Local Data (stored only on your device):**
   - Timer settings and preferences
