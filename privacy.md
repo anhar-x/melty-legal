@@ -12,7 +12,7 @@
   - Session history and statistics
   - App blocking preferences
 
-  We do **NOT** collect, transmit, or store your personal data on external servers.
+  Your focus data (timers, tasks, and session history) is stored on your device. Subscription and purchase information is processed by Apple's In-App Purchase system. We use RevenueCat to manage subscription status and entitlements.
   
 ## Third-Party Services
 

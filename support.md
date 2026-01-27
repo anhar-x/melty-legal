@@ -23,4 +23,4 @@ Go to Settings in the app and tap "Restore Purchases".
 Subscriptions are managed through your Apple ID. Go to Settings > Apple ID > Subscriptions on your device.
 
 **Where is my data stored?**
-All your data is stored locally on your device. We do not collect or transmit your personal data.
+Your focus data (timers, tasks, and session history) is stored on your device. Subscription and purchase information is processed by Apple's In-App Purchase system. We use RevenueCat to manage subscription status and entitlements.
